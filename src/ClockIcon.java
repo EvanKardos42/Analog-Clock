@@ -8,7 +8,12 @@ import java.util.*;
 
 import javax.sound.sampled.Line;
 import javax.swing.Icon;
-
+/**
+ * Analog clock picture that is 
+ * displayed as an Icon on a JLabel  
+ * @author evank
+ *
+ */
 public class ClockIcon implements Icon {
 	private final int w;
 	private final int h;
